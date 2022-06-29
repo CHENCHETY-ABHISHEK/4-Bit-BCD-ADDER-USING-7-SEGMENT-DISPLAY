@@ -17,7 +17,7 @@ We have designed a 4-Bit BCD Adder using the 7-Segment display in Proteus 8.0 Pr
 We can use the existing IC7447 for BCD to 7-segment Display Driver, it shows a garbage display when the inputs are outside the range of 0-9 so we used a customized module that can drive the 7-segment display and when inputs are outside the range of 0-9 it shows E on Display indicating an error.
 
 ## Working Principle
-- Before getting into details of the working principle lets see the pin diagram of 7-Segment Display also as we are using common anode display the inverted logic has to be given to the display, so we have included it in the decode itself.
+- Before getting into details of the working principle lets see the pin diagram of 7-Segment Display also as we are using common anode display the inverted logic has to be given to the display, so we have included it in the decoder itself.
 ![Pin Diagram for 7-Segment Display](images/7-segment-Display.png) 
 - As we are using customized BCD to 7-Segment Decoder the output looks like the below
 ![7-Segment Display](images/Customized-Display.png)
