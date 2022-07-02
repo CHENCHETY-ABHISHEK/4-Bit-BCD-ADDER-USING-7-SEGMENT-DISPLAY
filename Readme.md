@@ -37,3 +37,7 @@ We can use the existing IC7447 for BCD to 7-segment Display Driver, it shows a g
 ## Main Circuit
 ![Main Circuit](images/main-circuit.png)
 
+
+
+https://user-images.githubusercontent.com/88726684/177003558-917dc3c1-2c9f-45b4-9f67-33a0c63a7777.mp4
+
